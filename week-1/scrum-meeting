@@ -1,0 +1,1 @@
+Talked about how the project should proceed. The requirements are a database(to store all the users who have either encrypted or decrypted messages), a web-app(the application will run on the web for ease of use) and mail-api(to send the encrypted images or decryted messages to the users).  
