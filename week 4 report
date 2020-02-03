@@ -1,0 +1,6 @@
+Implemented the encoding and decoding messages.
+Solved few errors that were encountered during the implementation.
+
+Planning to finish implementation and integrate with web-app.
+Also planning to do the 7th bit implementation which would make the encoding more secure.
+Planning to use SHA-256 encoding to encrypt the text. 
