@@ -1,4 +1,4 @@
-Implemented the encoding and decoding messages.
+Implemented the encoding and decoding message functions.
 Solved few errors that were encountered during the implementation.
 
 Planning to finish implementation and integrate with web-app.
